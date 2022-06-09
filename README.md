@@ -1,0 +1,1 @@
+# Jquery-code-for-remove-Jet-Filters-Title-with-empty-attrbibutes
